@@ -1,0 +1,54 @@
+https://data-flair.training/blogs/python-ml-data-preprocessing/
+https://www.edureka.co/blog/data-science-projects/
+https://data-flair.training/blogs/data-wrangling-with-python/
+https://data-flair.training/blogs/python-matplotlib-tutorial/
+https://github.com/abdulfatir/twitter-sentiment-analysis
+https://www.analyticsvidhya.com/blog/2016/02/bigmart-sales-solution-top-20/
+https://data-flair.training/blogs/python-statistics/ ; https://data-flair.training/blogs/python-descriptive-statistics/
+https://data-flair.training/blogs/python-multiprocessing/
+https://data-flair.training/blogs/python-data-cleansing/
+https://www.geeksforgeeks.org/ml-rainfall-prediction-using-linear-regression/
+
+
+1)	Analyse the given dataset using python by applying following methods.
+	Use various types of Data Pre-processing steps.
+	Use different methods for Analysing Data.
+	Use various methods for Visualizing Data.
+
+2)	Census
+3)	Analyse the Aggregation and Data Wrangling steps using python for the given two Data frames.
+
+•	Data Wrangling
+Data Frame 1
+i.	Emp_id= 101,102,103,104,105,106
+ii.	Dept_Name=’CSE’,‘IT’,‘Mechanical’,‘Civil’,‘Biotechnology’,’ECE’
+iii.	Aisle= 1,2,3, NaN,5,6
+Data Frame 2
+i.	Emp_id= 107,108,109,110,111,112
+ii.	Dept_Name=’BCA’, ‘BSC’, ‘MCA’, ‘MSc’, ‘Mtech’,’BBA’
+iii.	Aisle= 7,8,9,10,NaN,12
+
+•	Aggregation
+
+i.	Create a Dataframe (8,4)
+ii.	Date_range should be 17-11-2019 and periods = 8
+
+
+4.	Based on your own data, write the python code environment for analysing various plots and features present in matplotlib.
+
+5.	Based on given description, write the python program and analyse the prediction. 
+
+Working with Twitter data has become an integral part of sentiment analysis problems. The dataset is 3MB in size and has 31,962 tweets.
+	Problem: Identify the tweets which are hate tweets and which are not.
+6.	Retail is another industry which extensively uses analytics to optimize business processes. Tasks like product placement, inventory management, customized offers, product bundling, etc. are being smartly handled using data science techniques. As the name suggests, this data comprises of transaction records of a sales store. This is a regression problem. The data has 8523 rows of 12 variables.
+Problem: Predict the sales of a store.
+7.	 Based on your own data, analyse the basic Statistics and Descriptive Statistics.
+
+8.	 Based on your own data, elaborate Python Multiprocessing Module
+
+9.	 Based on your own data, elaborate Python Data Cleansing by Pandas and Numpy
+
+10.	Using python, predict the rainfall using Linear Regression
+
+
+
